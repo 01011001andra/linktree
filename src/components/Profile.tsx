@@ -16,14 +16,14 @@ const Profile = () => {
           className="h-[25vh] rounded-b-2xl object-bottom object-cover w-full"
         />
       </div>
-      <div className="relative flex flex-col items-center pt-36">
+      <div className="relative flex w-full max-w-7xl mx-auto flex-col items-center pt-36">
         <img
           src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1085&q=80"
           alt="profile"
           className="absolute rounded-full w-44 h-44 -top-16"
         />
         <div className="flex flex-col items-center justify-center gap-5">
-          <div className="flex flex-col items-center justify-center max-w-xs gap-2">
+          <div className="flex flex-col items-center justify-center  gap-2">
             <h1 className="text-3xl ">Your Name</h1>
             <p className="text-[#7d7d7d] text-center">
               Your Career & What ever you want to write down here
@@ -61,7 +61,7 @@ const Profile = () => {
               className="transition-all duration-300 cursor-pointer hover:scale-150"
             />
           </div>
-          <p className="text-[#7d7d7d] text-center max-w-md w-full">
+          <p className="text-[#7d7d7d] text-center  w-full">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Voluptatem, eligendi quisquam exercitationem eveniet nostrum optio
             aperiam, cumque temporibus corporis placeat aliquam et at. Ab
