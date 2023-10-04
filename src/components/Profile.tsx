@@ -29,7 +29,7 @@ const Profile = () => {
               Your Career & What ever you want to write down here
             </p>
           </div>
-          <div className="flex items-center gap-8">
+          <div className="flex items-center flex-wrap justify-center gap-8">
             <a href="https://yandramuslim.my.id" target={"_blank"}>
               <FiTwitter
                 size={25}
