@@ -1,9 +1,12 @@
 import React from "react";
+import { AiFillHeart } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <footer className="flex items-center justify-center py-10">
-      <h1 className="text-xl">&#169;Copyright 2023</h1>
+    <footer className="flex items-center gap-4 justify-center py-10">
+      <span className="text-xl ">Build with </span>
+      <AiFillHeart size={30} color="red" />
+      <span>By YourName</span>
     </footer>
   );
 };

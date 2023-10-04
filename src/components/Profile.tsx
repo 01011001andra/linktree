@@ -36,32 +36,44 @@ const Profile = () => {
                 className="transition-all duration-300 cursor-pointer hover:scale-150"
               />
             </a>
-            <CiLinkedin
-              size={30}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
-            <AiOutlineFacebook
-              size={30}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
-            <BsInstagram
-              size={25}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
-            <FaTiktok
-              size={25}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
-            <PiTelegramLogoBold
-              size={30}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
-            <BiLogoDiscordAlt
-              size={30}
-              className="transition-all duration-300 cursor-pointer hover:scale-150"
-            />
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <CiLinkedin
+                size={30}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <AiOutlineFacebook
+                size={30}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <BsInstagram
+                size={25}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <FaTiktok
+                size={25}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <PiTelegramLogoBold
+                size={30}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
+            <a href="https://yandramuslim.my.id" target={"_blank"}>
+              <BiLogoDiscordAlt
+                size={30}
+                className="transition-all duration-300 cursor-pointer hover:scale-150"
+              />
+            </a>
           </div>
-          <p className="text-[#7d7d7d] text-center  w-full">
+          <p className="text-[#7d7d7d] text-center  px-4 2xl:px-0 text-sm w-full">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Voluptatem, eligendi quisquam exercitationem eveniet nostrum optio
             aperiam, cumque temporibus corporis placeat aliquam et at. Ab
